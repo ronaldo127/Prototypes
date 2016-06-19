@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: e8c2c265dd0032e4298e5ced48505aa3
+timeCreated: 1466276247
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pidgeon_0
+    21300002: pidgeon_1
+    21300004: pidgeon_2
+    21300006: pidgeon_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pidgeon_0
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 673
+        width: 91
+        height: 32
+      alignment: 9
+      pivot: {x: 0.13777982, y: 0.5302963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.462036, y: 15.030518}
+        - {x: 36.462036, y: 12.030518}
+        - {x: 0.46203613, y: 8.030518}
+        - {x: -5.537964, y: 6.0305176}
+        - {x: -12.537964, y: 3.0305176}
+        - {x: -12.537964, y: -6.9694824}
+        - {x: -9.537964, y: -13.969482}
+        - {x: -2.5379639, y: -16.969482}
+        - {x: 46.462036, y: -16.969482}
+        - {x: 78.462036, y: 5.0305176}
+        - {x: 78.462036, y: 15.030518}
+    - name: pidgeon_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 382
+        width: 579
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 231.5, y: -112.5}
+        - {x: 228.5, y: -111.5}
+        - {x: 242.5, y: -114.5}
+        - {x: 258.5, y: -116.5}
+        - {x: 262.5, y: -113.5}
+        - {x: 261.5, y: -109.5}
+        - {x: 255.5, y: -103.5}
+        - {x: 249.5, y: -102.5}
+        - {x: 248.5, y: -101.5}
+        - {x: 250.5, y: -102.5}
+        - {x: 263.5, y: -104.5}
+        - {x: 272.5, y: -105.5}
+        - {x: 289.5, y: -105.5}
+        - {x: 289.5, y: -94.5}
+        - {x: -39.5, y: 60.5}
+        - {x: -199.5, y: 142.5}
+        - {x: -282.5, y: 142.5}
+        - {x: -289.5, y: 129.5}
+        - {x: -289.5, y: 95.5}
+        - {x: -277.5, y: 58.5}
+        - {x: -180.5, y: -70.5}
+        - {x: -93.5, y: -137.5}
+        - {x: -46.5, y: -142.5}
+        - {x: 68.5, y: -142.5}
+        - {x: 246.5, y: -130.5}
+        - {x: 243.5, y: -119.5}
+        - {x: 236.5, y: -115.5}
+    - name: pidgeon_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 177
+        height: 330
+      alignment: 9
+      pivot: {x: 0.0508661, y: 0.12102471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 154.9967, y: 228.06184}
+        - {x: 148.9967, y: 261.06183}
+        - {x: 135.9967, y: 290.06183}
+        - {x: 106.996704, y: 290.06183}
+        - {x: 68.996704, y: 251.06184}
+        - {x: 48.996704, y: 213.06184}
+        - {x: 8.996704, y: 98.061844}
+        - {x: -9.003296, y: 79.061844}
+        - {x: -9.003296, y: 10.061844}
+        - {x: -6.003296, y: -9.938156}
+        - {x: 71.996704, y: -39.938156}
+        - {x: 97.996704, y: -39.938156}
+        - {x: 109.996704, y: -30.938156}
+        - {x: 157.9967, y: 66.061844}
+        - {x: 167.9967, y: 104.061844}
+        - {x: 167.9967, y: 153.06184}
+    - name: pidgeon_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 326
+        height: 348
+      alignment: 9
+      pivot: {x: 0.018237904, y: 0.16012765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 277.05444, y: 31.275574}
+        - {x: 277.05444, y: 54.275574}
+        - {x: 286.05444, y: 78.27557}
+        - {x: 313.05444, y: 131.27557}
+        - {x: 320.05444, y: 146.27557}
+        - {x: 320.05444, y: 190.27557}
+        - {x: 311.05444, y: 219.27557}
+        - {x: 302.05444, y: 225.27557}
+        - {x: 313.05444, y: 255.27557}
+        - {x: 307.05444, y: 284.27557}
+        - {x: 301.05444, y: 292.27557}
+        - {x: 271.05444, y: 292.27557}
+        - {x: 263.05444, y: 291.27557}
+        - {x: 190.05444, y: 250.27557}
+        - {x: 157.05444, y: 226.27557}
+        - {x: 32.054443, y: 119.27557}
+        - {x: 28.054443, y: 91.27557}
+        - {x: 37.054443, y: 55.275574}
+        - {x: -5.9455566, y: 4.2755737}
+        - {x: -5.9455566, y: -2.7244263}
+        - {x: 10.054443, y: -10.724426}
+        - {x: 110.05444, y: -55.724426}
+        - {x: 217.05444, y: -55.724426}
+        - {x: 224.05444, y: -51.724426}
+        - {x: 225.05444, y: -43.724426}
+        - {x: 239.05444, y: -17.724426}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
